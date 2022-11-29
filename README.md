@@ -22,6 +22,8 @@ JavaScript (ES6)
 
 Go to About, Portfolio and Contact me section
 
+##Contact
+Mail me at navyacms2002@gmail.com
 
 ## Acknowledgements
 
