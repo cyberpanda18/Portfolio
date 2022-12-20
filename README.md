@@ -22,7 +22,7 @@ JavaScript (ES6)
 
 Go to About, Portfolio and Contact me section
 
-##Contact
+## Contact
 Mail me at navyacms2002@gmail.com
 
 ## Acknowledgements
